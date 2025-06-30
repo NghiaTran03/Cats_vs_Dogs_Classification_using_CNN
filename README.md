@@ -30,7 +30,6 @@ Input (256x256x3)
 → Dense (64) → ReLU
 → Dense (1) → Sigmoid
 
-
 ---
 
 ## Dataset Download
