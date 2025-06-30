@@ -9,8 +9,11 @@ A Convolutional Neural Network (CNN) based image classification project to disti
 This project trains a CNN to classify images of cats and dogs from a labeled dataset. It includes:
 
 - Data preprocessing (resizing, normalization)
+  
 - Building and training a CNN model using Keras
+  
 - Evaluating the model using validation data
+
 - Making predictions on test images
 
 ---
