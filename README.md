@@ -22,13 +22,13 @@ This project trains a CNN to classify images of cats and dogs from a labeled dat
 
 A typical architecture used:  
 Input (256x256x3)
-→ Conv2D (32 filters, 3x3) → ReLU → MaxPooling2D
-→ Conv2D (64 filters, 3x3) → ReLU → MaxPooling2D
-→ Conv2D (128 filters, 3x3) → ReLU → MaxPooling2D
-→ Flatten
-→ Dense (128) → ReLU
-→ Dense (64) → ReLU
-→ Dense (1) → Sigmoid
+→ Conv2D (32 filters, 3x3) → ReLU → MaxPooling2D  
+→ Conv2D (64 filters, 3x3) → ReLU → MaxPooling2D  
+→ Conv2D (128 filters, 3x3) → ReLU → MaxPooling2D  
+→ Flatten  
+→ Dense (128) → ReLU  
+→ Dense (64) → ReLU  
+→ Dense (1) → Sigmoid  
 
 ---
 
